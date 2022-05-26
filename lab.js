@@ -1,4 +1,5 @@
-////////// PROBLEM 1 //////////
+////////// PROBLEM 1 //////////]\
+console.log("testing github")
 /*
   Create a variable called 'lovesCode' and set it equal to true. 
   Check to see if 'lovesCode' is equal to true or false. 
